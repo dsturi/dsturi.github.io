@@ -1,0 +1,17 @@
+title: Sedat Touray # your name (or website title) here
+logo: "/images/IMG_0525.jpg?raw=true" # your photo (or logo) here
+description: > # your text below (remove <br> elements if you don't need line breaks)
+  Data Science Student at URI 
+  URI [Department of Data Science] (https://www.uri.edu/programs/program/data-science-b-a-b-s/)
+  URI [Department of Engineering] (https://web.uri.edu/engineering/)
+  URI <a href ="https://www.uri.edu/programs/program/data-science-b-a-b-s/">Department of Data Science</a>
+  URI <a href ="https://www.uri.edu/engineering/">Department of Engineering</a>
+
+  <br><br>
+  [My LinkedIn Profile] (https://www.linkedin.com/in/sedat-touray-138443100)
+  <a href= "https://www.linkedin.com/in/sedat-touray-138443100">View My LinkedIn Profile</a>
+  <br><br>
+  
+  
+theme: jekyll-theme-minimal
+google_analytics: UA-000000-0 # your Google Analytics tracking ID here

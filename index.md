@@ -17,4 +17,4 @@ Data Science Student at the University of Rhode Island
 I am working on several awesome projects and i will update soon. sit tight
 
 
-- [Sample Presentation](file:///C:/Users/cdat2ray/Downloads/Ocg404%20final%20presentation.pdf)
+[Sample Presentation](file:///C:/Users/cdat2ray/Downloads/Ocg404%20final%20presentation.pdf)

@@ -5,7 +5,7 @@ My name is Sedat Touray, a rising senior at URI. This is my first github develop
 ### Education: 
 Data Science Student at the University of Rhode Island
 
-[Project 1 Title](/sample_page)
+[Project 1 Title](/https://sites.google.com/view/sedattouray/home?authuser=0)
 <img src="images/IMG_0525.jpg?raw=true"/>
 
 ---
@@ -17,4 +17,4 @@ Data Science Student at the University of Rhode Island
 I am working on several awesome projects and i will update soon. sit tight
 
 
-- [Sample Presentation](http://bloose.github.io/pdf/sample_presentation.pdf)
+[Sample Presentation](file:///C:/Users/cdat2ray/Downloads/Ocg404%20final%20presentation.pdf)

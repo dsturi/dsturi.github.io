@@ -6,7 +6,9 @@ My name is Sedat Touray, a rising senior at URI. This is my first github develop
 Data Science Student at the University of Rhode Island
 
 [Project 1 Title](https://sites.google.com/view/sedattouray/home?authuser=0)
+<br><br>
 <img src="images/IMG_0525.jpg?raw=true"/></a>
+<br><br>
 [final project](https://colab.research.google.com/drive/1WNVOYJxBbGMEsN_4z9hsCz7UDQjoZffJ#scrollTo=e8psenSdqa2R)
 ---
 ### Work Experience: Senior Sales Specialist at Bank of America

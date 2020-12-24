@@ -19,4 +19,4 @@ Data Science Student at the University of Rhode Island
 I am working on several awesome projects and i will update soon. sit tight
 
 
-[Sample Presentation](Ocg404%20final%20presentation(2).pdf)
+[ocg404](Ocg404%20final%20presentation(2).pdf)
